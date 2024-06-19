@@ -1,1 +1,1 @@
-# ADD-Detection-using-ML
+# Alzheimer's Diseases Detection Using ML
